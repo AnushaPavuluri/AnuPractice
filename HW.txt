@@ -1,0 +1,25 @@
+created an instance
+created volume and snapshots
+created VPC normally
+created subnet mask also for the vpc
+converted snapshot into volumes and then attached
+
+
+Doubts:
+need clarity on subnet mask creating
+attached an existing volume to the new instance, but the configuration done is not visible in the attached instance
+
+
+Topics left:
+Autoscaling
+ElasticIP
+IAM
+CloudWatch
+CloudTrail
+Elastic Bean stack
+
+git
+Manual VPC
+
+
+
